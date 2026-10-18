@@ -1,4 +1,3 @@
-<picture>
-   <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
-   <img alt="Logo for Hi Folks , I'm Aditi..!" src="art/header-light.png">
-</picture>
+<p align="center">
+  <img src="header-dark.png" width="100%" alt="Hey folks, I'm Aditi!">
+</p>
